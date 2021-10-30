@@ -1,8 +1,8 @@
 {
-  "name": "get-random-user",
-  "homepage": "https://shariqansari88.github.io/get-random-user",
+  "name": "assignment-get-random-user",
+  "homepage": "https://shariqansari88.github.io/assignment-get-random-user",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
