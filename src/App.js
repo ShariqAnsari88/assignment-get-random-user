@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 
-import ClassComp from './components/ClassComp';
+// import ClassComp from './components/ClassComp';
 import FunctionalComp from './components/FunctionalComp';
 
 function App() {
